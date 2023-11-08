@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DEX-Gecko/static/css/main.f27cacfd.css",
+    "main.js": "/DEX-Gecko/static/js/main.5bd1e771.js",
+    "index.html": "/DEX-Gecko/index.html",
+    "main.f27cacfd.css.map": "/DEX-Gecko/static/css/main.f27cacfd.css.map",
+    "main.5bd1e771.js.map": "/DEX-Gecko/static/js/main.5bd1e771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f27cacfd.css",
+    "static/js/main.5bd1e771.js"
+  ]
+}
